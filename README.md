@@ -30,7 +30,8 @@ MIRNA-RIP is a software package for R (www.r-project.org) to predict miRNAs as r
     miRNA candidates
 
 Please cite: Ast et al. MiR-192, miR-200c and miR-17 are fibroblast-mediated inhibitors of colorectal cancer invasion. Oncotarget (2018).
-References
+
+### References
 
 [1] The Cancer Genome Atlas Network.
 Comprehensive Molecular Characterization of Human Colon and Rectal Cancer.
